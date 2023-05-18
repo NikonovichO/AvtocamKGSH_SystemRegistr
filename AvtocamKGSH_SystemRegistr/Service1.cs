@@ -55,7 +55,7 @@ namespace AvtocamKGSH_SystemRegistr
                 try
                 {
                 while (true)
-                    {
+                    {//что то
                         WorkWithData.ReadDevices();
                         if (WorkWithData.DevicesReader.HasRows)
                         {
